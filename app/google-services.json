@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "725976181417",
+    "project_id": "mis-notas-50c20",
+    "storage_bucket": "mis-notas-50c20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725976181417:android:4d7a7b4b3c55a9255dd7b8",
+        "android_client_info": {
+          "package_name": "com.emergentes.misnotas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT4FnB3mQAhrayLhEkiU3dDXhBcdhuOjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
